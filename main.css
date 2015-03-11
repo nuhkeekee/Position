@@ -17,7 +17,6 @@ header {
   padding: 2em;
   margin: 0;
   background-color:#FFA76C;
-
 }
 
 footer {
@@ -25,4 +24,20 @@ footer {
   color:#fff;
   padding:1em;
   text-align: center;
+}
+
+
+.robot-body {
+  padding: 0em;
+  width: 320px;
+  text-align: center;
+}
+
+.brain {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  width: 50px;
+  margin: 0;
+  transition: all 250ms linear;
 }
