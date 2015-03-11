@@ -3,3 +3,26 @@ html {
 	font-family: 'Contrail One', sans-serif;
   background-color: #FFF;
 }
+
+h1 {
+  background-color: #4C4C4C;
+  color: #FFF;
+  padding: 1.5em;
+  margin:0;
+  text-align: center;
+  font-family: 'Contrail One', sans-serif;
+}
+
+header {
+  padding: 2em;
+  margin: 0;
+  background-color:#FFA76C;
+
+}
+
+footer {
+  background-color:#FFA76C;
+  color:#fff;
+  padding:1em;
+  text-align: center;
+}
