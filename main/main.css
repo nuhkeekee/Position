@@ -14,9 +14,8 @@ h1 {
 }
 
 header {
-  padding: 2em;
+  padding: 3em;
   margin: 0;
-  background-color:#FFA76C;
 }
 
 footer {
@@ -58,7 +57,6 @@ footer {
   transition: all 250ms linear;
  }
 
-
 div:hover .left {
   left: -1em;
 }
@@ -69,4 +67,12 @@ div:hover .right {
 
 div:hover .brain {
   top: 20px;
+}
+
+div {
+  padding: 40px 0 0 0;
+  position: relative;
+  top: 5px;
+  width:320px;
+  margin: 0 auto;
 }
