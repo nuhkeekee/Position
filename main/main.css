@@ -37,7 +37,36 @@ footer {
   position: absolute;
   top: 50px;
   left: 100px;
-  width: 50px;
+  width: 46px;
   margin: 0;
   transition: all 250ms linear;
+}
+
+.left {
+  position:absolute;
+  width: 125px;
+  top: 5px;
+  left: 50px;
+  transition: all 250ms linear;
+}
+
+.right {
+  position:absolute;
+  width: 125px;
+  top: 5px;
+  left: 200px;
+  transition: all 250ms linear;
+ }
+
+
+div:hover .left {
+  left: -1em;
+}
+
+div:hover .right {
+  left: 15em;
+}
+
+div:hover .brain {
+  top: 20px;
 }
