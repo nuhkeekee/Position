@@ -5,8 +5,8 @@ html {
 }
 
 h1 {
-  background-color: #1a2230;
-  color: #1a2230;
+  background-color: #4C4C4C;
+  color: #FFF;
   padding: 1.5em;
   margin:0;
   text-align: center;
@@ -19,7 +19,7 @@ header {
 }
 
 footer {
-  background-color:#1a2230;
+  background-color:#FFA76C;
   color:#fff;
   padding:1em;
   text-align: center;
@@ -53,7 +53,7 @@ footer {
   position:absolute;
   width: 125px;
   top: 5px;
-  left: 100px;
+  left: 200px;
   transition: all 250ms linear;
  }
 
